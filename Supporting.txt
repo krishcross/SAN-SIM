@@ -1,0 +1,18 @@
+Program for reconstruction using 'SAN SIM'
+Abbreviation of 'SAN SIM' = Saturable Absorption Nonlinear Structured Illumination Microscopy
+Copyright (c) Department of Physics, New Delhi, India
+Indian Institute of Technology Delhi (IITD)
+Year - 2022
+
+The algorithm was proposed in the article https://doi.org/10.1364/OL.460502
+Webpage - https://github.com/krishcross/SAN-SIM/
+-----------------------------------------------------------
+Please cite the following work if this program is used:
+K. Samanta, A. Tiwari, S. Joseph, and J. Joseph, "Saturable 
+absorption assisted nonlinear structured illumination 
+microscopy", Optics Letters 47(11), 2702-2705 (2012). 
+-----------------------------------------------------------
+Default parameters are set in the program. 
+You may like to change them as needed or keep them as they are.
+The custom colormap 'morgenstemning' is used in the program.
+Please keep main and colormap file in same the folder. 
